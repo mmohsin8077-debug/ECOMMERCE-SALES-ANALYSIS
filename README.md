@@ -8,6 +8,7 @@ customers, regions, and business trends using SQL.
 - Aggregate Functions
 - Subqueries
 - Business Analysis
+
 #QUERIES
 1. Find the total sales, total profit, and total number of orders.
 2. Find the top 10 products generating the highest sales.
@@ -23,6 +24,7 @@ customers, regions, and business trends using SQL.
 12. Which specific product ranks as the second-highest sales generator within each individual product category, and how far behind is it from the top performer?
 13. #What is the Month-over-Month (MoM) sales growth rate.
 14. Find customers whose total sales are greater than the average customer sales.
+
 #KEY INSIGHTS
 - Electronics generated 45% of total revenue.
 - Credit Card was the most used payment mode.
